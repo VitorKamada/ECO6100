@@ -1,2 +1,2 @@
-# ECO6100-
+# ECO6100
 Introduction to Econometrics
