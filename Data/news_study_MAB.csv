@@ -1,0 +1,508 @@
+resid,Female,watchnat,ReadNews,pnintst,Education,income,Voted,prop,infopro,WatchProgram,learnpro,TreatmentGroup,prop_dv,InformationLevel,prop_vote,white,partyid,PoliticalInterest
+10026410,0,several times a month,less than once a month,not interested at all?,finished a four-year college program,"between $40,000 and $50,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10026470,0,several times a week,every day,not interested at all?,two or more years of college,"between $10,000 and $20,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,2,very interested
+10026540,female,every day,every day,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,yes,a great deal,prompted(salmon),0,3,1,1,7,very interested
+10026550,female,several times a week,every day,not interested at all?,finished a four-year college program,"between $60,000 and $70,000",voted,yes,some,yes,a little,prompted(salmon),0,3,1,1,1,very interested
+10026560,0,several times a week,every day,only slightly interested,finished a four-year college program,"between $80,000 and $90,000",voted,yes,a great deal,0,,0,0,4,1,1,2,somewhat interested
+10026610,0,several times a week,every day,somewhat interested,one to two year vacational school,"between $10,000 and $20,000",0,,a great deal,0,,prompted(salmon),1,4,,1,2,only slightly interested
+10026650,0,every day,every day,not interested at all?,master degree or equivalent,,voted,yes,some,0,,prompted(salmon),0,3,1,0,7,very interested
+10026680,female,never?,several times a week,only slightly interested,master degree or equivalent,"between $50,000 and $60,000",voted,no,a little,0,,0,0,2,0,1,7,somewhat interested
+10026700,female,several times a week,never?,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,6,somewhat interested
+10026770,0,several times a week,several times a week,only slightly interested,finished a four-year college program,"between $50,000 and $60,000",voted,yes,a little,0,,prompted(salmon),0,2,1,0,2,somewhat interested
+10026860,female,several times a week,every day,somewhat interested,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,1,2,only slightly interested
+10026960,0,every day,every day,not interested at all?,finished a four-year college program,"between $90,000 and $100,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10026970,female,every day,never?,not interested at all?,hight school grad,,voted,yes,some,0,,prompted(salmon),0,3,1,1,6,very interested
+10027000,female,every day,several times a week,not interested at all?,two or more years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,2,very interested
+10027070,female,every day,every day,only slightly interested,two years or more vacational school,"between $20,000 and $30,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,somewhat interested
+10027120,female,several times a week,once a week,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,no,a great deal,0,,0,0,4,0,1,3,somewhat interested
+10027130,0,every day,several times a week,only slightly interested,finished a four-year college program,"between $60,000 and $70,000",voted,yes,some,yes,nothing,prompted(salmon),0,3,1,1,2,somewhat interested
+10027350,female,every day,once a week,only slightly interested,less than two years of college,"between $50,000 and $60,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,somewhat interested
+10027490,female,several times a week,once a month,somewhat interested,two years or more vacational school,"between $40,000 and $50,000",0,,some,0,,prompted(salmon),1,3,,0,7,only slightly interested
+10027530,female,every day,never?,somewhat interested,"beyond eigth grade, not high school grad","under $10,000",0,,some,0,,prompted(salmon),1,3,,1,,only slightly interested
+10027580,female,every day,every day,not interested at all?,"beyond eigth grade, not high school grad","between $20,000 and $30,000",voted,yes,a great deal,0,,0,0,4,1,0,1,very interested
+10027640,0,several times a week,several times a month,somewhat interested,finished a four-year college program,"between $30,000 and $40,000",0,,some,0,,0,1,3,,1,2,only slightly interested
+10027690,0,once a week,every day,only slightly interested,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,7,somewhat interested
+10027810,female,several times a week,never?,somewhat interested,finished a four-year college program,"between $20,000 and $30,000",0,,a little,0,,prompted(salmon),1,2,,0,6,only slightly interested
+10027840,0,several times a week,every day,not interested at all?,two or more years of college,,voted,yes,a great deal,0,,0,0,4,1,0,1,very interested
+10027880,female,several times a week,never?,only slightly interested,two or more years of college,"between $40,000 and $50,000",voted,no,some,0,,0,0,3,0,0,2,somewhat interested
+10027960,female,never?,every day,only slightly interested,one to two year vacational school,"between $50,000 and $60,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,somewhat interested
+10028080,0,every day,every day,not interested at all?,"ph.d., m.d., or other advance degree",,voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,1,very interested
+10028110,female,less than once a month,every day,only slightly interested,finished a four-year college program,"between $70,000 and $80,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,somewhat interested
+10028270,0,several times a month,every day,not interested at all?,less than two years of college,"between $20,000 and $30,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,very interested
+10028320,0,several times a week,less than once a month,somewhat interested,hight school grad,"between $30,000 and $40,000",voted,yes,a little,0,,0,0,2,1,1,3,only slightly interested
+10028390,0,,several times a week,,hight school grad,,voted,yes,a little,yes,some,prompted(salmon),0,2,1,0,1,
+10028420,0,several times a week,every day,not interested at all?,finished a four-year college program,"between $40,000 and $50,000",voted,yes,a great deal,yes,a little,0,0,4,1,1,3,very interested
+10028470,female,every day,never?,somewhat interested,hight school grad,"between $10,000 and $20,000",voted,no,some,yes,some,prompted(salmon),0,3,0,0,6,only slightly interested
+10028480,0,every day,every day,somewhat interested,two or more years of college,"$100,000 or more",voted,yes,none,0,,0,0,1,1,0,5,only slightly interested
+10028500,0,every day,every day,not interested at all?,two or more years of college,"between $70,000 and $80,000",voted,yes,some,0,,0,0,3,1,0,1,very interested
+10028620,female,every day,every day,not interested at all?,finished a four-year college program,"between $10,000 and $20,000",voted,,a great deal,0,,0,1,4,,1,7,very interested
+10028640,0,every day,once a week,only slightly interested,finished a four-year college program,"between $60,000 and $70,000",voted,yes,a little,yes,a little,0,0,2,1,0,3,somewhat interested
+10028750,0,every day,several times a week,not interested at all?,hight school grad,"between $40,000 and $50,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,4,very interested
+10028760,0,several times a week,every day,not interested at all?,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10028850,female,several times a week,never?,only slightly interested,finished a four-year college program,"between $50,000 and $60,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,somewhat interested
+10028890,,several times a week,once a week,only slightly interested,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,5,somewhat interested
+10028950,0,several times a week,several times a month,somewhat interested,finished a two-year college program,"between $30,000 and $40,000",0,,some,0,,prompted(salmon),1,3,,1,6,only slightly interested
+10029120,0,every day,every day,not interested at all?,master degree or equivalent,"between $50,000 and $60,000",voted,no,some,yes,some,prompted(salmon),0,3,0,1,5,very interested
+10029330,0,several times a week,every day,not interested at all?,master degree or equivalent,,voted,yes,some,yes,some,prompted(salmon),0,3,1,1,7,very interested
+10029650,0,every day,once a week,somewhat interested,hight school grad,"between $10,000 and $20,000",,,a little,0,,0,1,2,,0,4,only slightly interested
+10029690,0,every day,never?,only slightly interested,hight school grad,"between $90,000 and $100,000",0,,some,0,,prompted(salmon),1,3,,1,3,somewhat interested
+10029760,female,every day,every day,not interested at all?,two or more years of college,,voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+01002986,female,every day,several times a week,only slightly interested,hight school grad,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,1,1,somewhat interested
+10030040,female,once a month,once a week,somewhat interested,ged,,voted,yes,a little,0,,0,0,2,1,0,,only slightly interested
+10030130,0,every day,every day,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10030160,0,every day,every day,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",0,,a little,0,,prompted(salmon),1,2,,0,,somewhat interested
+10030250,female,every day,every day,not interested at all?,finished a four-year college program,,voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,2,very interested
+10030300,female,several times a week,several times a week,only slightly interested,finished a four-year college program,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,0,7,somewhat interested
+10030350,female,never?,once a week,only slightly interested,finished a four-year college program,,voted,yes,some,yes,some,prompted(salmon),0,3,1,1,1,somewhat interested
+10030510,0,every day,every day,only slightly interested,finished a four-year college program,"between $20,000 and $30,000",voted,yes,a little,0,,prompted(salmon),0,2,1,1,4,somewhat interested
+10030540,0,once a week,every day,only slightly interested,less than two years of college,"between $90,000 and $100,000",0,,a little,0,,prompted(salmon),1,2,,1,1,somewhat interested
+10030850,female,every day,less than once a month,somewhat interested,less than two years of college,,0,,some,0,,prompted(salmon),1,3,,0,5,only slightly interested
+10030900,female,several times a week,less than once a month,only slightly interested,hight school grad,"between $30,000 and $40,000",0,,a little,0,,0,1,2,,1,6,somewhat interested
+10030930,female,every day,several times a week,somewhat interested,finished a four-year college program,"between $60,000 and $70,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,only slightly interested
+10031000,female,several times a week,once a week,only slightly interested,two years or more vacational school,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,1,7,somewhat interested
+10031060,0,every day,every day,not interested at all?,"ph.d., m.d., or other advance degree","between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,7,very interested
+10031220,0,every day,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a little,0,,0,0,2,1,1,2,very interested
+10031230,female,every day,every day,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,2,somewhat interested
+10031310,0,every day,every day,not interested at all?,two or more years of college,"between $20,000 and $30,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,5,very interested
+10031340,0,several times a month,several times a month,somewhat interested,one to two year vacational school,"between $50,000 and $60,000",voted,yes,some,0,,0,0,3,1,1,2,only slightly interested
+10031470,female,several times a month,several times a month,only slightly interested,finished a four-year college program,"between $90,000 and $100,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,somewhat interested
+10031570,0,every day,once a week,not interested at all?,two or more years of college,,voted,yes,some,0,,prompted(salmon),0,3,1,0,5,very interested
+10031580,0,every day,several times a week,not interested at all?,two or more years of college,"between $60,000 and $70,000",voted,yes,none,0,,0,0,1,1,1,1,very interested
+10031630,0,every day,less than once a month,only slightly interested,two or more years of college,"between $40,000 and $50,000",voted,no,some,0,,prompted(salmon),0,3,0,1,3,somewhat interested
+10031670,female,every day,several times a week,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,2,very interested
+10031690,0,every day,several times a week,somewhat interested,hight school grad,"between $30,000 and $40,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,only slightly interested
+10031710,female,never?,several times a week,only slightly interested,hight school grad,"$100,000 or more",voted,yes,a little,0,,prompted(salmon),0,2,1,0,2,somewhat interested
+561,0,every day,several times a week,only slightly interested,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,somewhat interested
+10031820,0,every day,never?,not interested at all?,master degree or equivalent,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,2,very interested
+10031830,female,every day,never?,only slightly interested,hight school grad,"under $10,000",0,,a great deal,0,,prompted(salmon),1,4,,0,1,somewhat interested
+10031860,female,several times a week,once a week,not interested at all?,two or more years of college,"between $40,000 and $50,000",0,,some,0,,0,1,3,,1,1,very interested
+10031900,female,several times a month,once a week,somewhat interested,finished a two-year college program,"between $10,000 and $20,000",voted,yes,some,0,,0,0,3,1,1,4,only slightly interested
+10031940,female,every day,every day,only slightly interested,finished a four-year college program,"between $90,000 and $100,000",voted,yes,a great deal,0,,0,0,4,1,1,3,somewhat interested
+10031970,female,several times a week,once a week,only slightly interested,hight school grad,"between $10,000 and $20,000",voted,no,a little,yes,a little,prompted(salmon),0,2,0,0,6,somewhat interested
+10032040,0,several times a week,once a week,only slightly interested,master degree or equivalent,"between $50,000 and $60,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,0,2,somewhat interested
+10032150,0,every day,every day,not interested at all?,two years or more vacational school,"between $50,000 and $60,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,0,6,very interested
+10032220,0,every day,never?,only slightly interested,hight school grad,"between $20,000 and $30,000",0,,a great deal,0,,0,1,4,,0,5,somewhat interested
+10032230,0,every day,every day,not interested at all?,master degree or equivalent,"between $30,000 and $40,000",voted,no,a little,yes,some,prompted(salmon),0,2,0,1,6,very interested
+10032280,0,once a week,once a week,very interested,eigth grade or less,,0,,some,0,,0,1,3,,1,5,not interested at all
+10032290,female,every day,once a week,not interested at all?,finished a four-year college program,"between $90,000 and $100,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,0,7,very interested
+10032310,0,several times a week,every day,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,6,somewhat interested
+10032320,0,every day,every day,not interested at all?,master degree or equivalent,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,6,very interested
+619,female,several times a week,several times a week,somewhat interested,hight school grad,"between $80,000 and $90,000",0,,a little,0,,prompted(salmon),1,2,,1,2,only slightly interested
+10032550,0,every day,every day,not interested at all?,hight school grad,"between $50,000 and $60,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,1,very interested
+10032610,,every day,several times a week,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,0,7,very interested
+10032630,0,once a week,several times a week,not interested at all?,less than two years of college,"$100,000 or more",voted,no,don^t know,0,,prompted(salmon),0,,0,1,2,very interested
+10032640,female,every day,every day,not interested at all?,two or more years of college,"between $20,000 and $30,000",voted,yes,some,0,,0,0,3,1,0,1,very interested
+10032700,0,several times a week,once a week,only slightly interested,two or more years of college,"between $20,000 and $30,000",0,,a little,0,,0,1,2,,0,5,somewhat interested
+10032760,0,every day,several times a week,only slightly interested,hight school grad,"between $20,000 and $30,000",0,,some,0,,0,1,3,,0,5,somewhat interested
+10032780,female,every day,every day,not interested at all?,two years or more vacational school,"$100,000 or more",voted,yes,some,0,,0,0,3,1,1,2,very interested
+10032820,female,every day,every day,only slightly interested,two or more years of college,,voted,,a great deal,0,,0,1,4,,0,,somewhat interested
+10032830,0,every day,once a week,only slightly interested,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,yes,a great deal,prompted(salmon),0,3,1,1,6,somewhat interested
+10032930,female,once a month,less than once a month,somewhat interested,hight school grad,"between $30,000 and $40,000",0,,some,yes,a great deal,prompted(salmon),1,3,,0,6,only slightly interested
+10033000,female,every day,several times a week,only slightly interested,two or more years of college,"between $60,000 and $70,000",voted,yes,a little,0,,0,0,2,1,1,2,somewhat interested
+695,0,every day,every day,not interested at all?,two or more years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,3,very interested
+10033150,female,every day,every day,not interested at all?,"ph.d., m.d., or other advance degree","between $50,000 and $60,000",voted,no,a great deal,yes,nothing,prompted(salmon),0,4,0,1,1,very interested
+10033350,0,every day,every day,not interested at all?,"ph.d., m.d., or other advance degree","between $80,000 and $90,000",voted,yes,a great deal,yes,a great deal,prompted(salmon),0,4,1,0,3,very interested
+10033570,female,every day,every day,not interested at all?,two years or more vacational school,,voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10033670,0,every day,several times a month,somewhat interested,finished a four-year college program,"between $10,000 and $20,000",0,,some,0,,prompted(salmon),1,3,,1,4,only slightly interested
+10033680,0,every day,several times a week,somewhat interested,finished a four-year college program,"$100,000 or more",0,,none,0,,0,1,1,,1,2,only slightly interested
+10033720,female,every day,once a week,somewhat interested,less than two years of college,"under $10,000",voted,yes,some,0,,0,0,3,1,1,6,only slightly interested
+10033800,female,every day,every day,not interested at all?,two years or more vacational school,,voted,yes,a great deal,0,,0,0,4,1,0,1,very interested
+10033830,female,never?,several times a week,very interested,finished a four-year college program,,0,,a great deal,0,,prompted(salmon),1,4,,1,2,not interested at all
+10033840,female,every day,once a week,only slightly interested,less than two years of college,"between $50,000 and $60,000",voted,yes,some,0,,0,0,3,1,1,6,somewhat interested
+10033870,0,every day,every day,only slightly interested,"ph.d., m.d., or other advance degree","$100,000 or more",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,4,somewhat interested
+10033880,0,once a week,several times a week,only slightly interested,two or more years of college,"between $60,000 and $70,000",voted,yes,some,0,,0,0,3,1,1,1,somewhat interested
+10034010,female,every day,every day,not interested at all?,finished a two-year college program,"between $70,000 and $80,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,1,very interested
+10034030,0,every day,every day,only slightly interested,two years or more vacational school,,voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,4,somewhat interested
+10034110,female,every day,once a week,only slightly interested,hight school grad,"between $50,000 and $60,000",voted,no,a great deal,0,,prompted(salmon),0,4,0,1,4,somewhat interested
+10034340,0,several times a week,once a week,not interested at all?,two or more years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,4,very interested
+10034360,0,every day,once a week,only slightly interested,less than two years of college,"between $30,000 and $40,000",voted,yes,a little,0,,0,0,2,1,0,5,somewhat interested
+10034740,0,several times a week,several times a month,only slightly interested,"ph.d., m.d., or other advance degree","$100,000 or more",voted,yes,some,0,,0,0,3,1,1,,somewhat interested
+10034780,female,every day,every day,not interested at all?,two or more years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,3,very interested
+10035040,female,every day,several times a week,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,no,a great deal,0,,0,0,4,0,0,4,very interested
+10035080,0,several times a week,once a month,only slightly interested,master degree or equivalent,"between $90,000 and $100,000",0,,a great deal,0,,0,1,4,,0,1,somewhat interested
+10035140,0,every day,every day,only slightly interested,master degree or equivalent,"under $10,000",voted,yes,a great deal,0,,0,0,4,1,1,3,somewhat interested
+10035170,0,every day,several times a week,somewhat interested,finished a four-year college program,"between $40,000 and $50,000",voted,yes,a great deal,yes,a great deal,prompted(salmon),0,4,1,0,4,only slightly interested
+10035180,0,every day,every day,not interested at all?,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,1,2,very interested
+10035260,female,every day,several times a month,only slightly interested,less than two years of college,"under $10,000",voted,yes,some,0,,0,0,3,1,1,4,somewhat interested
+10035280,female,once a month,never?,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,,none,0,,0,1,1,,1,4,very interested
+10035380,0,every day,never?,somewhat interested,hight school grad,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,5,only slightly interested
+10035530,female,every day,every day,not interested at all?,two or more years of college,"between $40,000 and $50,000",voted,yes,a little,0,,prompted(salmon),0,2,1,0,1,very interested
+10035660,0,several times a week,several times a month,only slightly interested,two or more years of college,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,1,6,somewhat interested
+10035710,female,every day,several times a week,only slightly interested,finished a two-year college program,"between $50,000 and $60,000",voted,yes,a great deal,yes,a great deal,prompted(salmon),0,4,1,1,6,somewhat interested
+10035790,female,several times a week,less than once a month,somewhat interested,finished a four-year college program,"between $30,000 and $40,000",0,,don^t know,0,,prompted(salmon),1,,,1,5,only slightly interested
+10035800,female,every day,once a week,somewhat interested,finished a four-year college program,"under $10,000",voted,yes,a little,0,,0,0,2,1,1,6,only slightly interested
+10035810,female,never?,once a week,only slightly interested,two or more years of college,"$100,000 or more",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,somewhat interested
+10035840,0,several times a week,never?,not interested at all?,two years or more vacational school,"between $60,000 and $70,000",voted,yes,some,0,,0,0,3,1,1,2,very interested
+10035870,0,once a week,once a week,only slightly interested,two or more years of college,"between $40,000 and $50,000",0,,a little,0,,prompted(salmon),1,2,,0,7,somewhat interested
+10035970,female,every day,once a month,not interested at all?,finished a two-year college program,"between $20,000 and $30,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,1,very interested
+10036060,0,every day,every day,not interested at all?,master degree or equivalent,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,1,6,very interested
+10036070,female,once a week,every day,not interested at all?,hight school grad,,voted,no,a little,0,,prompted(salmon),0,2,0,1,7,very interested
+10036090,0,several times a week,every day,only slightly interested,master degree or equivalent,"between $30,000 and $40,000",voted,no,some,0,,prompted(salmon),0,3,0,1,1,somewhat interested
+10036100,0,less than once a month,once a week,not interested at all?,finished a four-year college program,"under $10,000",voted,yes,a little,0,,0,0,2,1,1,5,very interested
+10036210,female,several times a week,every day,somewhat interested,two or more years of college,"between $40,000 and $50,000",voted,yes,a little,yes,some,prompted(salmon),0,2,1,1,6,only slightly interested
+10036290,0,once a week,,only slightly interested,finished a four-year college program,"between $50,000 and $60,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,3,somewhat interested
+10036320,female,every day,every day,somewhat interested,finished a four-year college program,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,1,6,only slightly interested
+10036390,0,once a month,every day,not interested at all?,finished a four-year college program,,voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,4,very interested
+10036590,0,every day,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,nothing,prompted(salmon),0,4,1,1,1,very interested
+10036600,0,several times a week,once a week,only slightly interested,two or more years of college,"$100,000 or more",0,,none,0,,0,1,1,,1,1,somewhat interested
+10036620,0,every day,every day,not interested at all?,finished a four-year college program,"between $90,000 and $100,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10036630,0,several times a week,never?,somewhat interested,hight school grad,"between $30,000 and $40,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,3,only slightly interested
+10036670,0,every day,every day,only slightly interested,finished a two-year college program,,voted,yes,some,0,,prompted(salmon),0,3,1,1,4,somewhat interested
+10036690,0,every day,several times a week,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,0,2,somewhat interested
+10036700,female,every day,every day,not interested at all?,less than two years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10036800,female,several times a week,once a month,only slightly interested,"beyond eigth grade, not high school grad","between $30,000 and $40,000",voted,yes,some,yes,a little,0,0,3,1,0,7,somewhat interested
+10036840,female,every day,less than once a month,somewhat interested,eigth grade or less,"between $20,000 and $30,000",0,,some,yes,some,0,1,3,,0,7,only slightly interested
+10036930,female,several times a week,every day,not interested at all?,finished a four-year college program,"between $70,000 and $80,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,,very interested
+10036950,0,several times a month,several times a week,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,3,somewhat interested
+10037010,0,every day,every day,not interested at all?,two or more years of college,"between $60,000 and $70,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,5,very interested
+10037130,female,every day,once a week,only slightly interested,master degree or equivalent,"between $20,000 and $30,000",voted,yes,a great deal,yes,nothing,prompted(salmon),0,4,1,1,7,somewhat interested
+10037170,0,every day,every day,only slightly interested,master degree or equivalent,"$100,000 or more",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,somewhat interested
+10037210,0,every day,less than once a month,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",voted,no,none,yes,some,prompted(salmon),0,1,0,1,6,very interested
+10037280,female,every day,every day,only slightly interested,master degree or equivalent,"between $90,000 and $100,000",voted,yes,a little,0,,0,0,2,1,1,3,somewhat interested
+10037420,female,every day,once a week,only slightly interested,two or more years of college,"$100,000 or more",voted,yes,some,0,,0,0,3,1,0,6,somewhat interested
+10037460,0,never?,every day,only slightly interested,"ph.d., m.d., or other advance degree","$100,000 or more",voted,yes,some,0,,0,0,3,1,1,7,somewhat interested
+10037500,0,every day,every day,not interested at all?,hight school grad,"between $30,000 and $40,000",voted,no,a great deal,0,,0,0,4,0,1,6,very interested
+10037570,,every day,every day,not interested at all?,less than two years of college,"between $20,000 and $30,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,very interested
+10037580,0,every day,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,no,some,0,,0,0,3,0,1,2,very interested
+10037640,female,every day,every day,only slightly interested,,,voted,no,a great deal,0,,0,0,4,0,1,5,somewhat interested
+10037760,0,every day,less than once a month,somewhat interested,finished a four-year college program,"between $90,000 and $100,000",voted,yes,a little,0,,0,0,2,1,0,2,only slightly interested
+10037770,,every day,every day,somewhat interested,two or more years of college,"between $40,000 and $50,000",voted,yes,a little,0,,prompted(salmon),0,2,1,1,2,only slightly interested
+10037830,0,every day,every day,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,some,yes,nothing,prompted(salmon),0,3,1,0,2,somewhat interested
+10037900,0,several times a week,several times a week,not interested at all?,finished a four-year college program,"between $10,000 and $20,000",voted,yes,a little,0,,0,0,2,1,1,2,very interested
+10037910,female,,never?,only slightly interested,"ph.d., m.d., or other advance degree","between $70,000 and $80,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,somewhat interested
+10037970,female,several times a week,never?,not interested at all?,"beyond eigth grade, not high school grad","between $20,000 and $30,000",voted,yes,a great deal,yes,a great deal,prompted(salmon),0,4,1,1,1,very interested
+10037980,0,every day,every day,not interested at all?,finished a four-year college program,"between $80,000 and $90,000",voted,yes,a great deal,0,,0,0,4,1,1,3,very interested
+10038020,female,several times a week,once a month,not interested at all?,two years or more vacational school,"between $20,000 and $30,000",voted,yes,some,0,,0,0,3,1,1,1,very interested
+10038050,female,every day,never?,not interested at all?,finished a two-year college program,,voted,yes,a great deal,yes,nothing,prompted(salmon),0,4,1,1,4,very interested
+10038080,0,once a week,every day,not interested at all?,one to two year vacational school,,voted,no,a great deal,0,,0,0,4,0,1,7,very interested
+10038120,0,every day,every day,somewhat interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,2,only slightly interested
+10038130,0,every day,never?,not interested at all?,finished a two-year college program,"under $10,000",voted,yes,a little,0,,prompted(salmon),0,2,1,0,7,very interested
+10038140,0,several times a week,once a week,only slightly interested,"ph.d., m.d., or other advance degree",,voted,yes,some,0,,0,0,3,1,1,4,somewhat interested
+10038170,female,several times a week,never?,only slightly interested,two or more years of college,"between $70,000 and $80,000",voted,yes,none,0,,prompted(salmon),0,1,1,1,2,somewhat interested
+10038270,0,less than once a month,less than once a month,not interested at all?,master degree or equivalent,"between $60,000 and $70,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,1,very interested
+10038380,female,every day,every day,not interested at all?,master degree or equivalent,"between $20,000 and $30,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10038430,0,,never?,not interested at all?,two years or more vacational school,"between $50,000 and $60,000",voted,yes,some,yes,a little,prompted(salmon),0,3,1,1,1,very interested
+10038520,0,every day,never?,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,no,some,0,,0,0,3,0,1,5,very interested
+10038530,0,every day,every day,not interested at all?,finished a four-year college program,"between $70,000 and $80,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,1,very interested
+10038590,female,several times a week,every day,not interested at all?,hight school grad,"between $50,000 and $60,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,3,very interested
+10038600,female,several times a week,never?,only slightly interested,finished a two-year college program,"between $40,000 and $50,000",voted,yes,a little,0,,0,0,2,1,0,7,somewhat interested
+10038640,female,every day,every day,very interested,two or more years of college,"between $40,000 and $50,000",voted,no,some,0,,0,0,3,0,1,2,not interested at all
+10038680,0,less than once a month,every day,only slightly interested,finished a four-year college program,"between $60,000 and $70,000",voted,yes,a great deal,0,,0,0,4,1,1,2,somewhat interested
+10038730,,several times a week,several times a week,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10038770,female,every day,several times a week,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,1,somewhat interested
+10038820,0,every day,every day,not interested at all?,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10038840,female,several times a week,several times a month,only slightly interested,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,0,,0,0,3,1,1,4,somewhat interested
+10038850,female,every day,every day,not interested at all?,finished a four-year college program,,voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,6,very interested
+10038880,female,every day,less than once a month,somewhat interested,hight school grad,"between $40,000 and $50,000",voted,yes,none,0,,0,0,1,1,1,2,only slightly interested
+10038900,0,every day,every day,not interested at all?,finished a four-year college program,"between $40,000 and $50,000",voted,yes,a great deal,yes,a great deal,prompted(salmon),0,4,1,1,2,very interested
+10038930,female,every day,every day,only slightly interested,finished a four-year college program,"$100,000 or more",0,,some,0,,prompted(salmon),1,3,,1,6,somewhat interested
+10039010,female,once a week,once a week,only slightly interested,finished a two-year college program,"between $10,000 and $20,000",voted,no,some,yes,some,prompted(salmon),0,3,0,0,7,somewhat interested
+10039070,female,once a week,every day,only slightly interested,master degree or equivalent,"between $50,000 and $60,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,somewhat interested
+10039110,female,never?,never?,not interested at all?,less than one year vacational school,"between $50,000 and $60,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,3,very interested
+10039140,female,once a week,several times a week,only slightly interested,finished a four-year college program,"between $20,000 and $30,000",voted,yes,a great deal,0,,0,0,4,1,1,3,somewhat interested
+10039150,female,several times a week,once a month,very interested,two or more years of college,"between $30,000 and $40,000",0,,a great deal,yes,some,prompted(salmon),1,4,,0,2,not interested at all
+10039190,0,once a week,several times a week,somewhat interested,less than one year vacational school,"between $20,000 and $30,000",voted,no,some,yes,some,prompted(salmon),0,3,0,1,2,only slightly interested
+10039200,female,never?,several times a week,somewhat interested,two years or more vacational school,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,1,1,only slightly interested
+10039210,female,several times a month,never?,very interested,hight school grad,"between $10,000 and $20,000",0,,a great deal,0,,prompted(salmon),1,4,,0,4,not interested at all
+10039260,0,several times a week,once a week,somewhat interested,finished a four-year college program,"between $40,000 and $50,000",0,,some,0,,0,1,3,,1,5,only slightly interested
+10039280,0,several times a week,every day,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,1,2,very interested
+10039580,female,every day,never?,only slightly interested,finished a four-year college program,"between $10,000 and $20,000",voted,yes,a little,0,,0,0,2,1,1,3,somewhat interested
+10039590,0,several times a month,several times a month,somewhat interested,two years or more vacational school,"between $50,000 and $60,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,6,only slightly interested
+10039640,female,several times a week,every day,only slightly interested,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,1,6,somewhat interested
+10039740,female,once a week,every day,not interested at all?,"ph.d., m.d., or other advance degree","between $90,000 and $100,000",voted,yes,some,0,,0,0,3,1,0,1,very interested
+10039750,female,several times a week,never?,only slightly interested,one to two year vacational school,"between $30,000 and $40,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,0,2,somewhat interested
+10039820,female,every day,once a week,only slightly interested,finished a four-year college program,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,1,6,somewhat interested
+10039830,0,never?,never?,very interested,finished a four-year college program,"between $60,000 and $70,000",0,,don^t know,0,,prompted(salmon),1,,,1,2,not interested at all
+10039840,0,several times a week,every day,not interested at all?,"ph.d., m.d., or other advance degree","between $80,000 and $90,000",voted,yes,some,0,,prompted(salmon),0,3,1,0,6,very interested
+10039940,female,never?,never?,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,some,0,,0,0,3,1,0,6,somewhat interested
+10039970,0,several times a week,several times a week,only slightly interested,master degree or equivalent,"between $80,000 and $90,000",0,,a little,yes,a little,prompted(salmon),1,2,,0,6,somewhat interested
+10040000,female,once a week,every day,only slightly interested,,,voted,yes,a great deal,0,,0,0,4,1,0,1,somewhat interested
+10040080,female,several times a week,every day,not interested at all?,finished a two-year college program,"between $50,000 and $60,000",voted,yes,some,0,,0,0,3,1,1,7,very interested
+10040100,0,every day,once a week,only slightly interested,two or more years of college,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,1,7,somewhat interested
+10040130,female,every day,never?,not interested at all?,finished a four-year college program,"between $80,000 and $90,000",voted,yes,a little,0,,prompted(salmon),0,2,1,0,4,very interested
+10040240,0,every day,never?,somewhat interested,two or more years of college,"between $60,000 and $70,000",0,,a little,0,,0,1,2,,0,2,only slightly interested
+10040290,0,once a week,every day,only slightly interested,finished a four-year college program,"between $80,000 and $90,000",0,,a great deal,yes,some,prompted(salmon),1,4,,0,6,somewhat interested
+10040300,female,every day,every day,only slightly interested,two or more years of college,"between $50,000 and $60,000",0,,a little,0,,0,1,2,,1,,somewhat interested
+10040310,female,every day,every day,not interested at all?,two or more years of college,"between $30,000 and $40,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,1,very interested
+10040320,female,once a month,once a month,somewhat interested,finished a four-year college program,"between $40,000 and $50,000",voted,yes,a great deal,0,,0,0,4,1,1,6,only slightly interested
+10040360,0,every day,several times a week,only slightly interested,two or more years of college,"between $10,000 and $20,000",voted,yes,a great deal,0,,0,0,4,1,1,6,somewhat interested
+10040490,female,every day,every day,not interested at all?,hight school grad,"between $70,000 and $80,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,very interested
+10040510,female,several times a week,several times a week,only slightly interested,two or more years of college,"$100,000 or more",voted,yes,some,yes,some,prompted(salmon),0,3,1,0,7,somewhat interested
+10040530,0,every day,every day,only slightly interested,finished a four-year college program,"between $90,000 and $100,000",,,missing,0,,prompted(salmon),1,,,1,6,somewhat interested
+10040540,female,several times a week,once a week,only slightly interested,two or more years of college,"between $70,000 and $80,000",0,,some,0,,0,1,3,,1,7,somewhat interested
+10040620,0,every day,every day,not interested at all?,hight school grad,,voted,,a great deal,0,,0,1,4,,1,4,very interested
+10040640,0,every day,every day,not interested at all?,two or more years of college,"between $40,000 and $50,000",voted,yes,a great deal,0,,0,0,4,1,1,5,very interested
+10040820,0,several times a week,never?,not interested at all?,two or more years of college,"between $40,000 and $50,000",0,,some,0,,0,1,3,,1,1,very interested
+10040920,female,several times a week,every day,not interested at all?,"beyond eigth grade, not high school grad","between $70,000 and $80,000",voted,yes,some,0,,0,0,3,1,1,6,very interested
+10041050,female,every day,once a month,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",voted,no,some,yes,some,prompted(salmon),0,3,0,0,6,very interested
+10041160,0,every day,every day,not interested at all?,finished a four-year college program,"between $40,000 and $50,000",voted,no,a great deal,0,,0,0,4,0,1,7,very interested
+10041170,0,every day,every day,very interested,finished a four-year college program,"between $70,000 and $80,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,,not interested at all
+10041180,female,several times a week,once a week,somewhat interested,two or more years of college,"between $40,000 and $50,000",voted,yes,a little,0,,0,0,2,1,1,2,only slightly interested
+10041190,female,once a week,every day,not interested at all?,two or more years of college,"between $50,000 and $60,000",voted,yes,some,yes,nothing,prompted(salmon),0,3,1,1,1,very interested
+10041240,female,every day,every day,only slightly interested,less than one year vacational school,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,2,somewhat interested
+10041270,female,every day,once a week,not interested at all?,finished a two-year college program,"between $20,000 and $30,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10041320,0,several times a week,several times a week,somewhat interested,two years or more vacational school,"between $40,000 and $50,000",voted,yes,a great deal,0,,0,0,4,1,1,1,only slightly interested
+10041350,0,every day,every day,only slightly interested,master degree or equivalent,,voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,somewhat interested
+10041380,female,every day,never?,only slightly interested,less than two years of college,,0,,don^t know,0,,0,1,,,1,3,somewhat interested
+10041400,female,several times a week,every day,not interested at all?,hight school grad,"between $10,000 and $20,000",voted,yes,a great deal,yes,a little,0,0,4,1,1,5,very interested
+10041460,female,once a week,every day,not interested at all?,finished a two-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,1,very interested
+10041490,female,every day,every day,only slightly interested,finished a four-year college program,"under $10,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,6,somewhat interested
+10041680,0,several times a week,every day,only slightly interested,finished a four-year college program,"between $80,000 and $90,000",voted,no,some,0,,0,0,3,0,1,2,somewhat interested
+10041810,female,several times a week,every day,only slightly interested,master degree or equivalent,"$100,000 or more",,,don^t know,0,,prompted(salmon),1,,,1,6,somewhat interested
+10041880,female,several times a week,once a week,not interested at all?,master degree or equivalent,"between $90,000 and $100,000",voted,yes,some,0,,0,0,3,1,1,2,very interested
+10041910,0,several times a month,once a month,only slightly interested,finished a four-year college program,"between $10,000 and $20,000",0,,some,0,,prompted(salmon),1,3,,1,6,somewhat interested
+10041970,0,several times a week,several times a week,only slightly interested,hight school grad,"between $20,000 and $30,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,5,somewhat interested
+10041990,female,every day,every day,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",0,,a great deal,yes,some,prompted(salmon),1,4,,1,1,very interested
+10042000,0,several times a week,every day,not interested at all?,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,1,7,very interested
+10042080,0,every day,every day,only slightly interested,"ph.d., m.d., or other advance degree","$100,000 or more",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,somewhat interested
+10042170,female,every day,every day,not interested at all?,finished a four-year college program,"between $80,000 and $90,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,6,very interested
+10042210,0,every day,every day,not interested at all?,"ph.d., m.d., or other advance degree","$100,000 or more",voted,yes,some,yes,nothing,prompted(salmon),0,3,1,1,1,very interested
+10042220,0,several times a week,never?,only slightly interested,two years or more vacational school,"between $40,000 and $50,000",voted,,a little,0,,0,1,2,,0,2,somewhat interested
+10042270,0,every day,every day,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,5,very interested
+10042320,0,once a week,never?,somewhat interested,two or more years of college,"$100,000 or more",0,,none,0,,0,1,1,,1,5,only slightly interested
+10042410,0,every day,once a week,only slightly interested,two or more years of college,"between $20,000 and $30,000",0,,a little,0,,prompted(salmon),1,2,,1,2,somewhat interested
+10042490,female,several times a week,once a week,only slightly interested,less than two years of college,"between $40,000 and $50,000",0,,a little,0,,prompted(salmon),1,2,,1,2,somewhat interested
+10042500,female,once a week,once a week,only slightly interested,hight school grad,"between $20,000 and $30,000",0,,none,0,,0,1,1,,1,3,somewhat interested
+10042650,female,every day,every day,not interested at all?,two or more years of college,"between $20,000 and $30,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,very interested
+10042840,0,once a week,every day,not interested at all?,finished a four-year college program,"between $60,000 and $70,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10042950,female,once a week,every day,only slightly interested,master degree or equivalent,,voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,6,somewhat interested
+10043130,0,never?,once a week,somewhat interested,two or more years of college,"between $30,000 and $40,000",0,,some,0,,prompted(salmon),1,3,,1,7,only slightly interested
+10043190,female,every day,every day,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,yes,nothing,prompted(salmon),0,3,1,1,7,somewhat interested
+10043200,0,every day,every day,somewhat interested,master degree or equivalent,"between $20,000 and $30,000",voted,no,a great deal,0,,0,0,4,0,0,2,only slightly interested
+10043210,,several times a week,never?,only slightly interested,finished a four-year college program,,voted,no,a little,0,,prompted(salmon),0,2,0,1,2,somewhat interested
+10043230,female,every day,every day,not interested at all?,two or more years of college,"between $10,000 and $20,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,7,very interested
+10043280,0,every day,less than once a month,not interested at all?,hight school grad,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,1,very interested
+10043300,female,every day,every day,not interested at all?,finished a four-year college program,"between $60,000 and $70,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10043310,0,every day,several times a week,not interested at all?,finished a four-year college program,,voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,5,very interested
+10043320,female,once a week,once a week,somewhat interested,hight school grad,"between $50,000 and $60,000",0,,a little,0,,0,1,2,,1,6,only slightly interested
+10043360,0,,never?,not interested at all?,two or more years of college,,voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10043480,female,every day,every day,not interested at all?,finished a four-year college program,"between $70,000 and $80,000",voted,no,some,0,,0,0,3,0,1,1,very interested
+10043630,0,every day,every day,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,6,very interested
+10043730,female,once a month,every day,not interested at all?,two or more years of college,,0,,a little,0,,prompted(salmon),1,2,,0,,very interested
+10043810,female,every day,every day,not interested at all?,finished a four-year college program,,voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,1,very interested
+10043840,0,several times a week,several times a week,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",0,,a great deal,0,,0,1,4,,0,6,very interested
+10043850,female,several times a week,once a week,not interested at all?,master degree or equivalent,"$100,000 or more",voted,no,some,yes,a little,prompted(salmon),0,3,0,1,7,very interested
+10043890,0,every day,every day,not interested at all?,hight school grad,"between $90,000 and $100,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,very interested
+10044130,0,several times a week,every day,only slightly interested,finished a four-year college program,"between $70,000 and $80,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,5,somewhat interested
+10044140,female,every day,every day,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,1,somewhat interested
+10044160,0,every day,every day,not interested at all?,master degree or equivalent,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,,very interested
+10044210,0,every day,never?,very interested,ged,"between $10,000 and $20,000",voted,yes,some,yes,a little,prompted(salmon),0,3,1,0,6,not interested at all
+10044240,female,every day,never?,not interested at all?,finished a two-year college program,"between $10,000 and $20,000",voted,yes,some,0,,0,0,3,1,1,2,very interested
+10044310,0,several times a week,several times a week,not interested at all?,finished a four-year college program,"between $10,000 and $20,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,6,very interested
+10044770,female,several times a week,every day,not interested at all?,master degree or equivalent,"between $30,000 and $40,000",voted,,some,0,,prompted(salmon),1,3,,1,2,very interested
+10044870,female,every day,every day,only slightly interested,two or more years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,7,somewhat interested
+10044880,female,every day,several times a week,somewhat interested,finished a two-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,0,5,only slightly interested
+10044910,0,once a week,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10044920,0,several times a week,once a week,not interested at all?,finished a four-year college program,,0,,a great deal,0,,0,1,4,,0,,very interested
+10044990,female,every day,every day,not interested at all?,master degree or equivalent,,voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,3,very interested
+10045040,0,several times a week,once a week,only slightly interested,hight school grad,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,1,somewhat interested
+10045190,0,every day,several times a week,not interested at all?,master degree or equivalent,"$100,000 or more",voted,yes,some,0,,0,0,3,1,1,3,very interested
+10045310,female,once a week,several times a week,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,very interested
+10045330,female,every day,every day,not interested at all?,"ph.d., m.d., or other advance degree","$100,000 or more",voted,yes,some,0,,prompted(salmon),0,3,1,1,7,very interested
+10045370,0,several times a week,every day,not interested at all?,two or more years of college,"between $30,000 and $40,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,2,very interested
+10045430,female,several times a week,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,nothing,prompted(salmon),0,4,1,1,1,very interested
+10045440,0,every day,every day,not interested at all?,finished a four-year college program,"under $10,000",voted,yes,none,0,,0,0,1,1,0,7,very interested
+10045520,female,every day,every day,not interested at all?,two or more years of college,,voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10045620,0,several times a week,every day,not interested at all?,finished a four-year college program,"between $60,000 and $70,000",voted,yes,a great deal,0,,0,0,4,1,1,6,very interested
+10045650,0,several times a week,every day,somewhat interested,less than two years of college,"between $30,000 and $40,000",voted,no,a great deal,yes,a little,prompted(salmon),0,4,0,0,2,only slightly interested
+10045730,0,several times a week,every day,only slightly interested,"ph.d., m.d., or other advance degree","between $70,000 and $80,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,somewhat interested
+10045800,female,every day,once a month,not interested at all?,two or more years of college,"between $20,000 and $30,000",0,,a little,0,,0,1,2,,1,6,very interested
+10045810,female,less than once a month,every day,not interested at all?,"ph.d., m.d., or other advance degree",,voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,1,very interested
+10045860,0,every day,once a week,only slightly interested,finished a four-year college program,"between $40,000 and $50,000",voted,yes,a little,0,,0,0,2,1,0,6,somewhat interested
+10045970,0,several times a week,every day,only slightly interested,finished a four-year college program,"between $70,000 and $80,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,1,somewhat interested
+10046000,0,every day,several times a week,only slightly interested,less than two years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,0,7,somewhat interested
+10046020,0,several times a week,once a week,only slightly interested,"beyond eigth grade, not high school grad","between $20,000 and $30,000",0,,some,0,,0,1,3,,0,6,somewhat interested
+10046050,,several times a week,every day,not interested at all?,one to two year vacational school,"between $30,000 and $40,000",voted,yes,a great deal,yes,a great deal,prompted(salmon),0,4,1,1,1,very interested
+10046060,0,every day,every day,only slightly interested,less than two years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,2,somewhat interested
+10046240,female,once a week,several times a week,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,7,very interested
+10046320,0,every day,every day,only slightly interested,finished a four-year college program,"between $40,000 and $50,000",voted,yes,a great deal,0,,0,0,4,1,1,1,somewhat interested
+10046360,0,several times a week,every day,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,0,1,very interested
+10046400,female,every day,every day,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10046470,female,every day,every day,not interested at all?,two or more years of college,"between $20,000 and $30,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,7,very interested
+10046510,female,every day,every day,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,3,somewhat interested
+10046630,0,every day,every day,not interested at all?,master degree or equivalent,"between $40,000 and $50,000",voted,yes,a great deal,yes,nothing,prompted(salmon),0,4,1,1,7,very interested
+10046640,0,several times a week,every day,not interested at all?,master degree or equivalent,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,1,7,very interested
+10046710,female,once a month,several times a month,not interested at all?,finished a four-year college program,"under $10,000",voted,yes,some,0,,prompted(salmon),0,3,1,0,7,very interested
+10046930,female,every day,every day,not interested at all?,finished a two-year college program,"between $80,000 and $90,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10046960,0,several times a week,several times a week,only slightly interested,"ph.d., m.d., or other advance degree","between $60,000 and $70,000",,,some,0,,0,1,3,,0,2,somewhat interested
+10046980,female,every day,several times a week,only slightly interested,finished a four-year college program,"under $10,000",voted,yes,a great deal,0,,0,0,4,1,1,5,somewhat interested
+10047070,female,several times a month,less than once a month,only slightly interested,hight school grad,"under $10,000",voted,no,some,0,,prompted(salmon),0,3,0,0,6,somewhat interested
+10047100,0,less than once a month,never?,somewhat interested,hight school grad,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,1,5,only slightly interested
+10047150,female,every day,every day,not interested at all?,finished a two-year college program,"between $10,000 and $20,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,very interested
+10047190,female,every day,several times a week,somewhat interested,finished a four-year college program,"between $60,000 and $70,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,2,only slightly interested
+10047230,female,several times a week,several times a week,not interested at all?,two or more years of college,"between $90,000 and $100,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,1,very interested
+10047250,female,every day,once a week,only slightly interested,two or more years of college,"between $30,000 and $40,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,1,somewhat interested
+10047270,female,several times a month,never?,very interested,two or more years of college,"between $40,000 and $50,000",0,,a little,0,,prompted(salmon),1,2,,0,,not interested at all
+10047380,female,every day,several times a week,not interested at all?,finished a four-year college program,"between $90,000 and $100,000",voted,yes,some,0,,0,0,3,1,1,3,very interested
+10047400,female,several times a month,several times a week,only slightly interested,finished a four-year college program,"$100,000 or more",voted,no,some,0,,0,0,3,0,1,2,somewhat interested
+10047440,0,several times a week,every day,not interested at all?,master degree or equivalent,"between $70,000 and $80,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10047450,female,several times a week,never?,only slightly interested,two or more years of college,"between $70,000 and $80,000",voted,no,none,0,,prompted(salmon),0,1,0,1,1,somewhat interested
+10047520,0,several times a week,several times a week,only slightly interested,hight school grad,"between $20,000 and $30,000",0,,some,0,,0,1,3,,1,1,somewhat interested
+10047550,female,every day,every day,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,very interested
+10047620,female,every day,never?,somewhat interested,hight school grad,"between $10,000 and $20,000",0,,none,0,,0,1,1,,0,4,only slightly interested
+10047660,female,several times a week,once a week,only slightly interested,hight school grad,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,1,2,somewhat interested
+10047680,female,every day,never?,only slightly interested,hight school grad,,voted,yes,a great deal,0,,0,0,4,1,1,2,somewhat interested
+10047780,female,several times a week,several times a month,somewhat interested,less than two years of college,"between $50,000 and $60,000",0,,a little,0,,0,1,2,,1,2,only slightly interested
+10047810,female,every day,every day,somewhat interested,hight school grad,"under $10,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,only slightly interested
+10047880,0,every day,every day,not interested at all?,one to two year vacational school,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,5,very interested
+10047970,female,several times a week,several times a month,only slightly interested,finished a four-year college program,"between $70,000 and $80,000",voted,yes,a little,0,,prompted(salmon),0,2,1,1,2,somewhat interested
+10048020,female,every day,every day,not interested at all?,master degree or equivalent,"between $20,000 and $30,000",voted,no,some,0,,0,0,3,0,1,7,very interested
+10048030,0,every day,several times a week,only slightly interested,hight school grad,"under $10,000",0,,some,0,,prompted(salmon),1,3,,0,5,somewhat interested
+10048040,female,several times a week,every day,not interested at all?,less than two years of college,,voted,yes,some,0,,0,0,3,1,1,7,very interested
+10048050,0,several times a week,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,a great deal,prompted(salmon),0,4,1,1,6,very interested
+10048070,0,several times a week,every day,not interested at all?,finished a four-year college program,,voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10048110,0,every day,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,3,very interested
+10048140,female,every day,every day,not interested at all?,finished a four-year college program,"between $90,000 and $100,000",voted,yes,some,0,,0,0,3,1,1,5,very interested
+10048200,female,several times a week,several times a week,only slightly interested,hight school grad,,voted,no,a great deal,0,,0,0,4,0,0,6,somewhat interested
+10048270,0,several times a month,several times a week,only slightly interested,master degree or equivalent,"between $40,000 and $50,000",0,,a great deal,yes,a great deal,prompted(salmon),1,4,,0,4,somewhat interested
+10048290,0,every day,several times a month,somewhat interested,hight school grad,"between $60,000 and $70,000",voted,yes,some,yes,a great deal,prompted(salmon),0,3,1,1,2,only slightly interested
+10048340,0,every day,every day,not interested at all?,finished a two-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,2,very interested
+10048420,0,several times a week,every day,not interested at all?,master degree or equivalent,"between $80,000 and $90,000",voted,yes,a great deal,0,,0,0,4,1,1,5,very interested
+10048430,,several times a week,several times a week,somewhat interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,0,3,only slightly interested
+10048550,female,once a week,every day,not interested at all?,finished a four-year college program,"between $80,000 and $90,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,7,very interested
+10048690,0,every day,every day,not interested at all?,less than two years of college,"between $50,000 and $60,000",voted,yes,some,yes,a great deal,prompted(salmon),0,3,1,1,1,very interested
+10048720,female,every day,every day,only slightly interested,finished a four-year college program,"between $50,000 and $60,000",voted,yes,some,0,,0,0,3,1,1,7,somewhat interested
+10048740,0,every day,every day,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10048770,0,every day,once a week,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",0,,a great deal,0,,prompted(salmon),1,4,,1,6,somewhat interested
+10048870,female,several times a month,several times a week,not interested at all?,hight school grad,"between $60,000 and $70,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,0,7,very interested
+10048880,0,several times a week,once a week,only slightly interested,hight school grad,"between $30,000 and $40,000",0,,don^t know,0,,0,1,,,0,,somewhat interested
+10048920,female,every day,once a week,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,0,6,somewhat interested
+10048940,female,every day,several times a week,only slightly interested,finished a four-year college program,"between $50,000 and $60,000",0,,some,0,,0,1,3,,0,6,somewhat interested
+10048950,female,every day,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,4,very interested
+10049000,female,every day,several times a week,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,1,2,very interested
+10049030,female,every day,once a month,not interested at all?,hight school grad,"between $20,000 and $30,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,very interested
+10049040,female,several times a week,every day,not interested at all?,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,0,7,very interested
+10049050,0,every day,every day,only slightly interested,"ph.d., m.d., or other advance degree","between $70,000 and $80,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,0,5,somewhat interested
+10049060,female,every day,every day,only slightly interested,two years or more vacational school,,voted,no,a great deal,0,,0,0,4,0,1,1,somewhat interested
+10049360,0,once a week,never?,somewhat interested,finished a four-year college program,,voted,yes,some,yes,don^t know,0,0,3,1,1,4,only slightly interested
+10049400,female,several times a week,several times a week,not interested at all?,less than two years of college,"between $70,000 and $80,000",voted,no,a great deal,0,,0,0,4,0,1,1,very interested
+10049440,0,every day,every day,not interested at all?,two or more years of college,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10049460,0,every day,every day,not interested at all?,master degree or equivalent,"between $50,000 and $60,000",voted,yes,a great deal,0,,0,0,4,1,0,1,very interested
+10049470,0,several times a month,every day,not interested at all?,hight school grad,"between $50,000 and $60,000",0,,some,yes,nothing,prompted(salmon),1,3,,1,1,very interested
+10049520,female,every day,every day,only slightly interested,hight school grad,"between $20,000 and $30,000",0,,a little,0,,0,1,2,,1,6,somewhat interested
+10049540,,several times a week,every day,only slightly interested,less than two years of college,"between $50,000 and $60,000",voted,yes,some,0,,0,0,3,1,1,2,somewhat interested
+10049560,0,once a month,every day,not interested at all?,master degree or equivalent,"between $80,000 and $90,000",voted,yes,some,0,,0,0,3,1,1,3,very interested
+10049650,female,several times a week,every day,only slightly interested,finished a four-year college program,"between $90,000 and $100,000",voted,yes,some,0,,prompted(salmon),0,3,1,0,1,somewhat interested
+10049720,0,every day,every day,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,0,7,very interested
+10049780,0,every day,every day,not interested at all?,finished a four-year college program,"between $90,000 and $100,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10049850,female,every day,every day,very interested,less than two years of college,"between $20,000 and $30,000",0,,a great deal,yes,a little,prompted(salmon),1,4,,0,4,not interested at all
+10049860,female,every day,several times a month,only slightly interested,two or more years of college,"between $10,000 and $20,000",voted,yes,a little,0,,0,0,2,1,1,1,somewhat interested
+10049880,female,several times a week,several times a week,only slightly interested,finished a two-year college program,,voted,yes,some,0,,0,0,3,1,0,2,somewhat interested
+10049960,female,every day,once a week,not interested at all?,one to two year vacational school,"between $50,000 and $60,000",0,,don^t know,0,,0,1,,,1,7,very interested
+10050010,0,every day,every day,not interested at all?,two or more years of college,"$100,000 or more",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,1,very interested
+10050070,female,every day,every day,only slightly interested,two or more years of college,"$100,000 or more",voted,yes,some,0,,prompted(salmon),0,3,1,1,6,somewhat interested
+10050130,0,several times a week,every day,not interested at all?,hight school grad,"between $40,000 and $50,000",0,,a little,0,,prompted(salmon),1,2,,0,7,very interested
+10050230,0,every day,never?,very interested,hight school grad,"between $20,000 and $30,000",voted,yes,a little,0,,prompted(salmon),0,2,1,1,5,not interested at all
+10050250,female,several times a week,every day,only slightly interested,hight school grad,"between $10,000 and $20,000",voted,yes,a little,yes,a little,prompted(salmon),0,2,1,0,6,somewhat interested
+10050330,female,every day,never?,very interested,hight school grad,"between $20,000 and $30,000",0,,none,0,,prompted(salmon),1,1,,0,6,not interested at all
+10050350,female,every day,once a week,only slightly interested,finished a two-year college program,"between $90,000 and $100,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,somewhat interested
+10050390,female,every day,every day,not interested at all?,master degree or equivalent,"between $70,000 and $80,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,very interested
+10050400,female,every day,every day,not interested at all?,two or more years of college,"$100,000 or more",voted,no,a little,0,,0,0,2,0,1,1,very interested
+10050440,female,every day,once a week,only slightly interested,hight school grad,,voted,yes,some,0,,0,0,3,1,1,5,somewhat interested
+10050480,female,every day,once a week,not interested at all?,two or more years of college,"between $60,000 and $70,000",0,,some,0,,0,1,3,,1,6,very interested
+10050500,female,several times a month,several times a week,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,7,somewhat interested
+10050670,female,several times a week,several times a week,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,no,some,yes,some,prompted(salmon),0,3,0,1,1,somewhat interested
+10050720,female,every day,every day,not interested at all?,master degree or equivalent,"between $60,000 and $70,000",voted,yes,some,0,,0,0,3,1,1,1,very interested
+10050730,female,every day,several times a week,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",voted,yes,some,yes,a little,prompted(salmon),0,3,1,1,1,very interested
+10050760,0,once a week,once a month,only slightly interested,two or more years of college,"between $40,000 and $50,000",voted,yes,some,0,,0,0,3,1,1,2,somewhat interested
+10050820,female,every day,every day,only slightly interested,hight school grad,"between $70,000 and $80,000",voted,yes,a great deal,0,,0,0,4,1,0,7,somewhat interested
+10050860,female,every day,every day,only slightly interested,finished a four-year college program,,voted,yes,some,0,,0,0,3,1,1,7,somewhat interested
+10050890,female,never?,less than once a month,not interested at all?,two years or more vacational school,,voted,yes,some,0,,prompted(salmon),0,3,1,1,1,very interested
+10050920,0,every day,once a week,not interested at all?,hight school grad,"between $60,000 and $70,000",voted,yes,some,0,,0,0,3,1,1,1,very interested
+10050940,female,every day,less than once a month,not interested at all?,two or more years of college,"between $30,000 and $40,000",voted,yes,a little,0,,0,0,2,1,1,1,very interested
+10051040,female,several times a week,several times a week,only slightly interested,hight school grad,"between $70,000 and $80,000",voted,yes,a little,yes,a little,0,0,2,1,1,2,somewhat interested
+10051120,0,every day,every day,only slightly interested,two or more years of college,"between $40,000 and $50,000",voted,yes,a great deal,0,,0,0,4,1,1,7,somewhat interested
+10051140,0,every day,,only slightly interested,finished a four-year college program,,0,,a little,0,,0,1,2,,0,6,somewhat interested
+10051460,female,several times a week,never?,somewhat interested,two or more years of college,,0,,none,0,,0,1,1,,1,5,only slightly interested
+10051730,female,once a week,once a week,somewhat interested,hight school grad,,voted,no,some,0,,prompted(salmon),0,3,0,0,6,only slightly interested
+10051740,0,every day,every day,not interested at all?,two or more years of college,"between $80,000 and $90,000",voted,yes,some,0,,0,0,3,1,1,1,very interested
+10051800,female,several times a week,every day,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,2,very interested
+10051850,female,once a month,every day,only slightly interested,less than two years of college,,voted,yes,some,0,,prompted(salmon),0,3,1,1,2,somewhat interested
+10052020,female,several times a week,never?,very interested,less than two years of college,"between $20,000 and $30,000",,,a little,0,,prompted(salmon),1,2,,0,2,not interested at all
+10052040,0,every day,several times a week,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,3,somewhat interested
+10052120,female,every day,once a week,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,0,,prompted(salmon),0,4,1,0,4,somewhat interested
+10052220,0,never?,several times a week,somewhat interested,master degree or equivalent,"between $80,000 and $90,000",,,a little,0,,prompted(salmon),1,2,,0,6,only slightly interested
+10052240,female,never?,every day,not interested at all?,finished a two-year college program,,voted,yes,a great deal,0,,prompted(salmon),0,4,1,0,1,very interested
+10052270,female,several times a week,once a week,only slightly interested,hight school grad,"between $50,000 and $60,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,3,somewhat interested
+10052410,0,every day,once a week,somewhat interested,one to two year vacational school,"between $40,000 and $50,000",voted,yes,some,yes,a great deal,prompted(salmon),0,3,1,1,1,only slightly interested
+10052430,female,several times a month,several times a week,somewhat interested,finished a two-year college program,"between $90,000 and $100,000",,,none,0,,prompted(salmon),1,1,,1,5,only slightly interested
+10052480,female,several times a week,several times a week,not interested at all?,master degree or equivalent,"between $50,000 and $60,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,6,very interested
+10052500,0,never?,once a week,not interested at all?,two years or more vacational school,"between $50,000 and $60,000",voted,yes,some,yes,a little,prompted(salmon),0,3,1,1,3,very interested
+10052570,female,every day,every day,not interested at all?,one to two year vacational school,"between $40,000 and $50,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,7,very interested
+10052730,0,several times a week,every day,only slightly interested,finished a four-year college program,"between $80,000 and $90,000",voted,yes,some,yes,some,prompted(salmon),0,3,1,1,2,somewhat interested
+10052780,female,several times a week,once a week,somewhat interested,two or more years of college,"between $10,000 and $20,000",voted,yes,a great deal,yes,some,prompted(salmon),0,4,1,1,6,only slightly interested
+10052880,female,several times a week,several times a week,only slightly interested,two years or more vacational school,"between $30,000 and $40,000",voted,yes,some,yes,a great deal,prompted(salmon),0,3,1,1,6,somewhat interested
+10052910,0,several times a week,every day,not interested at all?,finished a four-year college program,"between $90,000 and $100,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,very interested
+10052930,0,every day,every day,not interested at all?,finished a four-year college program,,0,,a little,0,,prompted(salmon),1,2,,1,1,very interested
+10052950,0,several times a week,every day,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,yes,a great deal,prompted(salmon),0,4,1,1,1,very interested
+10053090,0,every day,less than once a month,only slightly interested,finished a four-year college program,"under $10,000",voted,no,none,0,,prompted(salmon),0,1,0,1,6,somewhat interested
+10053320,female,several times a week,less than once a month,only slightly interested,master degree or equivalent,"between $10,000 and $20,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,somewhat interested
+10053350,0,several times a week,once a month,only slightly interested,less than two years of college,"between $20,000 and $30,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,3,somewhat interested
+10053490,female,several times a week,every day,not interested at all?,finished a four-year college program,"between $60,000 and $70,000",voted,yes,some,0,,prompted(salmon),0,3,1,0,6,very interested
+10053530,female,,never?,only slightly interested,less than two years of college,"between $30,000 and $40,000",0,,refused,0,,prompted(salmon),1,,,1,7,somewhat interested
+10053610,0,several times a week,every day,only slightly interested,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,somewhat interested
+10053680,female,every day,every day,only slightly interested,hight school grad,"between $30,000 and $40,000",0,,a little,yes,a little,prompted(salmon),1,2,,1,1,somewhat interested
+10053720,0,every day,every day,only slightly interested,hight school grad,"between $60,000 and $70,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,6,somewhat interested
+10053770,female,less than once a month,every day,only slightly interested,hight school grad,"between $20,000 and $30,000",voted,yes,some,yes,a great deal,prompted(salmon),0,3,1,1,6,somewhat interested
+10053820,female,once a week,less than once a month,only slightly interested,finished a four-year college program,"between $70,000 and $80,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,2,somewhat interested
+10053900,female,every day,every day,not interested at all?,"ph.d., m.d., or other advance degree","$100,000 or more",voted,yes,some,0,,prompted(salmon),0,3,1,0,1,very interested
+10053910,female,every day,every day,not interested at all?,finished a two-year college program,"between $40,000 and $50,000",voted,yes,a great deal,yes,nothing,prompted(salmon),0,4,1,1,7,very interested
+10053990,0,every day,less than once a month,not interested at all?,finished a four-year college program,"between $50,000 and $60,000",0,,a great deal,yes,a great deal,prompted(salmon),1,4,,0,5,very interested
+10054030,0,once a week,every day,only slightly interested,two or more years of college,"between $70,000 and $80,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,1,somewhat interested
+10054190,female,several times a week,several times a week,only slightly interested,two years or more vacational school,"between $50,000 and $60,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,3,somewhat interested
+10054250,female,several times a week,never?,very interested,two or more years of college,"between $40,000 and $50,000",voted,no,a little,0,,prompted(salmon),0,2,0,1,4,not interested at all
+10054270,female,several times a week,every day,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,yes,some,0,,prompted(salmon),0,3,1,1,1,very interested
+10054340,0,several times a week,every day,only slightly interested,less than two years of college,"between $30,000 and $40,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,6,somewhat interested
+10054350,female,every day,once a week,not interested at all?,finished a four-year college program,,voted,,a great deal,0,,prompted(salmon),1,4,,1,1,very interested
+10054400,female,every day,every day,not interested at all?,two years or more vacational school,"between $60,000 and $70,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,2,very interested
+10054510,0,several times a week,several times a week,only slightly interested,two or more years of college,"between $50,000 and $60,000",0,,a little,yes,some,prompted(salmon),1,2,,0,5,somewhat interested
+10054630,0,every day,every day,not interested at all?,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,3,very interested
+10054750,female,less than once a month,never?,only slightly interested,less than two years of college,"between $20,000 and $30,000",0,,some,0,,prompted(salmon),1,3,,0,,somewhat interested
+10055010,female,several times a week,several times a week,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,yes,a little,prompted(salmon),0,4,1,1,1,very interested
+10055040,female,several times a week,several times a month,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",0,,a little,yes,a great deal,prompted(salmon),1,2,,1,5,somewhat interested
+10055070,female,every day,every day,only slightly interested,two or more years of college,"between $50,000 and $60,000",voted,yes,a great deal,0,,prompted(salmon),0,4,1,1,4,somewhat interested
+10055140,female,never?,every day,somewhat interested,less than one year vacational school,"under $10,000",,,a little,0,,prompted(salmon),1,2,,1,4,only slightly interested
+10055190,female,every day,every day,not interested at all?,less than two years of college,"between $70,000 and $80,000",voted,yes,some,0,,0,0,3,1,1,5,very interested
+10055380,female,several times a month,several times a month,somewhat interested,finished a four-year college program,"under $10,000",0,,none,0,,0,1,1,,1,2,only slightly interested
+10055410,female,several times a week,once a week,not interested at all?,finished a four-year college program,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,1,2,very interested
+10055520,female,every day,every day,not interested at all?,"ph.d., m.d., or other advance degree",,voted,yes,some,0,,0,0,3,1,1,,very interested
+10055530,female,every day,every day,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10055600,female,every day,once a week,not interested at all?,two or more years of college,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,3,very interested
+10055670,female,every day,every day,only slightly interested,finished a four-year college program,"between $80,000 and $90,000",voted,yes,a great deal,yes,some,0,0,4,1,1,2,somewhat interested
+10055700,female,every day,every day,not interested at all?,master degree or equivalent,"between $90,000 and $100,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10055710,female,every day,every day,only slightly interested,two or more years of college,"between $40,000 and $50,000",voted,yes,a little,0,,0,0,2,1,1,7,somewhat interested
+10055840,0,every day,several times a week,only slightly interested,finished a four-year college program,"between $20,000 and $30,000",0,,a little,0,,0,1,2,,1,5,somewhat interested
+10055950,0,every day,every day,not interested at all?,finished a four-year college program,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,2,very interested
+10056150,female,every day,every day,not interested at all?,finished a four-year college program,"between $80,000 and $90,000",voted,yes,some,0,,0,0,3,1,1,6,very interested
+10056320,female,every day,every day,not interested at all?,two or more years of college,"between $70,000 and $80,000",voted,yes,a great deal,0,,0,0,4,1,1,7,very interested
+10056330,0,every day,every day,not interested at all?,finished a four-year college program,,voted,yes,a great deal,0,,0,0,4,1,1,6,very interested
+10056340,female,every day,once a week,only slightly interested,finished a two-year college program,"between $20,000 and $30,000",voted,yes,a little,yes,some,0,0,2,1,0,2,somewhat interested
+10056350,female,several times a week,several times a week,only slightly interested,two years or more vacational school,"between $20,000 and $30,000",voted,yes,a great deal,0,,0,0,4,1,0,7,somewhat interested
+10056640,0,several times a week,every day,not interested at all?,master degree or equivalent,"between $80,000 and $90,000",voted,no,a great deal,0,,0,0,4,0,1,3,very interested
+10056820,0,every day,every day,not interested at all?,two or more years of college,"between $50,000 and $60,000",0,,some,0,,0,1,3,,0,6,very interested
+10056960,female,every day,once a month,somewhat interested,two years or more vacational school,"between $50,000 and $60,000",voted,no,some,0,,0,0,3,0,0,2,only slightly interested
+10057030,female,never?,every day,not interested at all?,"ph.d., m.d., or other advance degree","between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,0,6,very interested
+10057070,female,every day,several times a week,only slightly interested,finished a four-year college program,"between $30,000 and $40,000",voted,yes,some,0,,0,0,3,1,1,5,somewhat interested
+10057120,female,every day,never?,somewhat interested,hight school grad,"between $40,000 and $50,000",voted,yes,none,0,,0,0,1,1,0,2,only slightly interested
+10057300,0,every day,every day,not interested at all?,hight school grad,"between $10,000 and $20,000",voted,yes,a great deal,0,,0,0,4,1,0,6,very interested
+10057380,female,several times a week,several times a week,only slightly interested,less than two years of college,"between $10,000 and $20,000",voted,yes,a great deal,0,,0,0,4,1,1,4,somewhat interested
+10057410,0,every day,every day,not interested at all?,master degree or equivalent,"$100,000 or more",voted,yes,a great deal,0,,0,0,4,1,0,2,very interested
+10057470,female,every day,several times a week,not interested at all?,two or more years of college,,voted,yes,a great deal,yes,a little,0,0,4,1,1,1,very interested
+10057510,female,every day,several times a week,only slightly interested,finished a four-year college program,"between $70,000 and $80,000",0,,a little,0,,0,1,2,,1,2,somewhat interested
+10057620,0,every day,every day,not interested at all?,two or more years of college,"between $60,000 and $70,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10057640,0,every day,every day,not interested at all?,finished a four-year college program,"between $80,000 and $90,000",voted,yes,some,0,,0,0,3,1,1,6,very interested
+10057790,0,every day,once a week,not interested at all?,hight school grad,"between $10,000 and $20,000",voted,yes,some,0,,0,0,3,1,1,1,very interested
+10057800,0,every day,once a week,not interested at all?,two or more years of college,,voted,yes,some,0,,0,0,3,1,1,1,very interested
+10057860,female,several times a month,less than once a month,not interested at all?,finished a two-year college program,"between $80,000 and $90,000",voted,yes,some,0,,0,0,3,1,1,6,very interested
+10057920,female,every day,every day,not interested at all?,two years or more vacational school,"between $40,000 and $50,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10057970,0,every day,every day,not interested at all?,"beyond eigth grade, not high school grad","between $40,000 and $50,000",0,,some,0,,0,1,3,,0,1,very interested
+10058040,female,every day,every day,only slightly interested,two or more years of college,"between $50,000 and $60,000",voted,yes,some,yes,a great deal,0,0,3,1,0,6,somewhat interested
+10058060,female,every day,every day,not interested at all?,finished a four-year college program,"between $20,000 and $30,000",voted,yes,a great deal,0,,0,0,4,1,1,2,very interested
+10058100,0,every day,every day,not interested at all?,finished a four-year college program,"between $90,000 and $100,000",voted,yes,a great deal,0,,0,0,4,1,1,4,very interested
+10058110,0,several times a week,every day,not interested at all?,finished a four-year college program,,voted,yes,a great deal,0,,0,0,4,1,0,5,very interested
+10058140,female,several times a week,every day,only slightly interested,finished a four-year college program,,voted,yes,a great deal,0,,0,0,4,1,1,1,somewhat interested
+10058160,female,several times a week,every day,not interested at all?,master degree or equivalent,"between $60,000 and $70,000",voted,yes,a great deal,0,,0,0,4,1,1,1,very interested
+10058170,female,every day,several times a month,only slightly interested,hight school grad,"between $30,000 and $40,000",0,,a great deal,0,,0,1,4,,0,7,somewhat interested
+10058230,0,several times a week,several times a month,only slightly interested,hight school grad,"$100,000 or more",voted,yes,some,0,,0,0,3,1,1,1,somewhat interested
+10058420,female,every day,every day,not interested at all?,two or more years of college,"between $70,000 and $80,000",voted,yes,a great deal,0,,0,0,4,1,1,6,very interested
+10058530,female,several times a month,several times a week,only slightly interested,hight school grad,"between $30,000 and $40,000",voted,yes,a great deal,0,,0,0,4,1,1,1,somewhat interested
