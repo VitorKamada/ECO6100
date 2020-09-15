@@ -27,15 +27,14 @@ ECO 6100 - Introduction to Econometrics taught at Wayne State University (WSU).
 
 > Kamada, Vitor. (2020b). [Causal Inference with Python](https://causal-methods.github.io/Book).
 
-**YouTube Channels:**
+**Videos:**
 
-[**Python for Econometrics**](https://www.youtube.com/channel/UCzQyPlkRBYQ4iq8wqEAYo9Q)
+Tutorials on [**Probability and 
+Statistics**](https://www.youtube.com/watch?v=HsoUlVK9-Qc&list=PLjGOAHAfqvl3HDF-VhkocmabyXGaYG0Vc).
 
-I recommend watching my introductory videos, if you have no experience with Python.
+Learn to code with [**Python**](https://www.youtube.com/watch?v=gOetkGQCLYI&list=PLjGOAHAfqvl1dH3pWtUPbI8ldtYCHpLIV).
 
-[**1 min Statistics**](https://www.youtube.com/channel/UCrdPpsjVsT_ivSBCbY8yMww )
-
-Under my supervision, my students from Georgia Tech recorded videos that cover the content of the book: [Probability and Statistics with Python](https://prob-stat-python.github.io/textbook).
+Lectures on [**Econometrics**](https://www.youtube.com/watch?v=iVCnm7okbD4&list=PLOQU3c_3DSpLTBa0vqPFVwDCqXlXiu49j).
 
 
 
